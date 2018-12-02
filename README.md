@@ -1,5 +1,5 @@
 # GetDTSXInfos
-Read Infos from .dtsx files
+SQL Server Integration Services packages (.dtsx) metadata reader
 
 ## This application is made to Read basic infos from dtsx files (in a directory)
 
